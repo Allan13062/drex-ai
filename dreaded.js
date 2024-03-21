@@ -232,8 +232,8 @@ if (budy.startsWith('>')) {
 
 	   async function loady () {
 var lod = [
-"i am drex_ai",
-"cloned by drex mose",
+"i am allan_ai",
+"cloned by allan george",
 "follow the below steps to deploy me",
 "Contact owner after deploying",
 	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
@@ -248,8 +248,8 @@ await client.sendMessage(from, {text: lod[i], edit: key });
 	  
 	   async function load () {
 var lod = [
-"i am drex_ai",
-"cloned by drex mose",
+"i am allan_ai",
+"cloned by allan george",
 "have fun with the bot",
 "type .sc to access my source code",
 	"𝐓𝐡𝐚𝐧𝐤 𝐘𝐨𝐮 𝐅𝐨𝐫 𝐖𝐚𝐢𝐭𝐢𝐧𝐠 😁 "
@@ -281,7 +281,7 @@ var lod = [
 "😎",
 "🤬",
         "🗿",	
-"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬"
+"⭓𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛y Allan! 😬"
 ]
 let { key } = await client.sendMessage(from, {text: '𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐛𝐲 𝐝𝐫𝐞𝐱! 😬...'})
 
@@ -422,7 +422,7 @@ let cap = `╭════〘 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 〙═⊷⏣
 ┃⬬│
 ┃⭓│▎▍▌▌▉▏▎▌▉▐▏▌
 ┃⬬│▎▍▌▌▉▏▎▌▉▐▏▌
-┃⭓│ ⬬𝐃𝐑𝐄𝐗_𝐀𝐈⭓
+┃⭓│ ⬬ALLAN_AI⭓
 ┃⛥│
 ┃╰┉┉┉┉┉┉┉┉┉┉┉┉┉┉┉⏣
 ╰─────────────────⏣
@@ -1263,7 +1263,7 @@ try {
  if (users  == client.decodeJid(client.user.id)) throw 'Bot cannot remove itself 😡';
  if (users == Owner) { m.reply('Its owner number')}; 
                  await client.groupParticipantsUpdate(m.chat, users, 'remove'); 
-await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐛𝐲 𝐝𝐫𝐞𝐱_𝐚𝐢😬'); 
+await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 𝐛𝐲 allan_ai😬'); 
 } catch (errr) { 
  await reply("𝐇𝐮𝐡!\n 𝐎𝐧𝐞 𝐨𝐟 𝐮𝐬 𝐢𝐬 𝐧𝐨𝐭 𝐚𝐧 𝐚𝐝𝐦𝐢𝐧 𝐡𝐞𝐫𝐞🌚")}
 
@@ -1277,7 +1277,7 @@ await m.reply('𝐑𝐞𝐦𝐨𝐯𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮
  case 'sc': case 'script': case 'repo':
 
  client.sendMessage(m.chat, { image: { url: `https://telegra.ph/file/53077a0e00d6bda32a46b.jpg` }, caption: 
-`👋🏻 Hi *${pushname}*,You can deploy 𝐃𝐑𝐄𝐗 𝐁𝐎𝐓 using the GitHub link below🗿\n\nFork and give us a star✨.\n\n https://github.com/drexmose/drex-ai\n\nEnjoy and have fun with the bot🗿...\n\nUse the link below to pair 𝐃𝐑𝐄𝐗_𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@darkintent120/Pairing-drex9]\n\nType ${prefix}Tutorial and follow the steps if you dont know how to deploy the bot\n\n           Made on Earth by 𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼` });
+`👋🏻 Hi *${pushname}*,You can deploy ALLAN 𝐁𝐎𝐓 using the GitHub link below🗿\n\nFork and give us a star✨.\n\n https://github.com/drexmose/drex-ai\n\nEnjoy and have fun with the bot🗿...\n\nUse the link below to pair 𝐃𝐑𝐄𝐗_𝐀𝐈 without scanning any qr code\n\n [https://replit.com/@darkintent120/Pairing-drex9]\n\nType ${prefix}Tutorial and follow the steps if you dont know how to deploy the bot\n\n           Made on Earth by 𝕯⃟𝗮𝗿𝗸_𝗜𝗻𝘁𝗲𝗻𝘁⃟ꦿ⸼` });
 
    break;
                                                   
